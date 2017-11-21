@@ -14623,3 +14623,5 @@ RExBY2Nlc3NsaXN0TU8=
 2017-11-21 11:49:21,786 - verifyTextOnScreen - ERROR - Text not found
 2017-11-21 11:49:36,623 - selectDropDownOption - ERROR - Div Element Not Found
 2017-11-21 11:49:37,558 - selectDropDownOption - ERROR - Drop Down Range type is not clickable
+2017-11-21 15:32:42,015 - find_auto_element - ERROR - Object with given value Search not found
+2017-11-21 15:32:56,652 - raiseException - ERROR - Link 204043720141080is not clickable
